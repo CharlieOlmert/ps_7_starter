@@ -1,0 +1,23 @@
+---
+title: "ps_7"
+author: "Charlie Olmert"
+date: "11/14/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(fs)
+library(knitr)
+library(scales)
+library(stringr)
+```
+
+```{r echo = FALSE, warning = FALSE, message = FALSE}
+
+```
+
